@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Models\Data;
 use Illuminate\Http\Request;
 
 class DataController extends Controller
@@ -13,7 +13,8 @@ class DataController extends Controller
      */
     public function index()
     {
-        //
+        return view('index',compact('index'))
+            ->with('i', (request()->input('page', 1) - 1) * 5);
     }
 
     /**
@@ -23,7 +24,8 @@ class DataController extends Controller
      */
     public function create()
     {
-        //
+        return view('create');
+
     }
 
     /**
@@ -34,7 +36,13 @@ class DataController extends Controller
      */
     public function store(Request $request)
     {
-        //
+       $request->validate([
+           'name' => 'required',
+       ]);
+       Data::create($request->all());
+
+       return redirect()->route('index')
+       ->with('successful','Data created successfully.');
     }
 
     /**
@@ -43,9 +51,9 @@ class DataController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show( Id $id)
     {
-        //
+        return view('Id.show',compact('Data'));
     }
 
     /**
@@ -56,7 +64,8 @@ class DataController extends Controller
      */
     public function edit($id)
     {
-        //
+        
+        return view('data.edit',compact('id'));
     }
 
     /**
@@ -68,7 +77,14 @@ class DataController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $request->validate([
+            'name' => 'required',
+        ]);
+      
+        $product->update($request->all());
+      
+        return redirect()->route('index')
+                        ->with('success','Product updated successfully');
     }
 
     /**
