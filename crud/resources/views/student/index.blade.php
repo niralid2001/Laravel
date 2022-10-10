@@ -35,9 +35,14 @@
 
     <form action="{{route('student.destroy',$student->id)}}" method="POST">
         <a class="btn btn-info" href="{{route('student.show',$student->id)}}">SHOW</a>
+        <a class="btn btn-primary" href="{{route('student.edit',$student->id)}}">EDIT</a>
+        @csrf
+        @method('DELETE')
+        <button type="submit" class="btn btn-danger">DELETE</button>
     </form>
 
 </tr>
+@endforeach
 </table>
 
 @endsection
