@@ -21,26 +21,30 @@
 </ul>
 </div>
 @endif
-<form action="{{route('student.update','$value->id' )}}" method="POST">
+<form action="{{route('student.update',$student->id)}}" method="POST">
 @csrf
+@method("PATCH")
 <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="form-group">
         <strong>StudentName:</strong>
-        <input type="text" name="name" value="{{$value->name}}" class="form-control" placeholder="Name">
+        <input type="text" name="name" value="{{$student->name}}" class="form-control" placeholder="Name">
         </div>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="form-group">
         <strong>Course:</strong>
-        <input type="text" name="course" value="{{$value->course}}" class="form-control" placeholder="course">
+        <input type="text" name="course" value="{{$student->course}}" class="form-control" placeholder="course">
         </div>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="form-group">
         <strong>Fee:</strong>
-        <input type="text" name="fee" value="{{$value->fee}}"class="form-control" placeholder="fee">
+        <input type="text" name="fee" value="{{$student->fee}}"class="form-control" placeholder="fee"><br>
         </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+        <button type="submit" class="btn btn-primary" >Submit</button>
     </div>
 </div>
 </form>
