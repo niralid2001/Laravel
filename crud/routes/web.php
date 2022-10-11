@@ -16,4 +16,4 @@ use App\Http\Controllers\StudentController;
 
 Route::get('/',[StudentController::class,'index']);
 
- Route::resource('student','App\Http\Controller\StudentController');
+ Route::resource('student',StudentController::class);

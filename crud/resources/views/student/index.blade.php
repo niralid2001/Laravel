@@ -32,7 +32,7 @@
     <td>{{$value->name}}</td>
     <td>{{$value->course}}</</td>
     <td>{{$value->fee}}</</td>
-
+    <td>
     <form action="{{route('student.destroy',$value->id)}}" method="POST">
         <a class="btn btn-info" href="{{route('student.show',$value->id)}}">SHOW</a>
         <a class="btn btn-primary" href="{{route('student.edit',$value->id)}}">EDIT</a>
@@ -40,7 +40,7 @@
         @method('DELETE')
         <button type="submit" class="btn btn-danger">DELETE</button>
     </form>
-
+    </td>
 </tr>
 @endforeach
 </table>

@@ -40,8 +40,11 @@
     <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="form-group">
         <strong>Fee:</strong>
-        <input type="text" name="fee" class="form-control" placeholder="fee">
+        <input type="text" name="fee" class="form-control" placeholder="fee"><br>
         </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+        <button type="submit" class="btn btn-primary" >Submit</button>
     </div>
 </div>
 </form>

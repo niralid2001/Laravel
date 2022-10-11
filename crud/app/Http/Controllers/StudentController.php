@@ -16,20 +16,22 @@ class StudentController extends Controller
 
     public function create()
     {
-        // return view('student.create');
+        return view('student.create');
     }
 
     public function store(Request $request)
     {
-        
+       $request->validation([
+           'name' => 'required',
+           'course' => 'required',
+           'fee' => 'required',
+       ]);  
+       student::create($request->all());
+       return redirect()->route('student.index')
+       ->with('success','Recorde inserted successfully...!');
     }
 
-    /**
-     * Display the specified resource.
-     *
-     * @param  \App\Models\student  $student
-     * @return \Illuminate\Http\Response
-     */
+    
     public function show(student $student)
     {
         //
