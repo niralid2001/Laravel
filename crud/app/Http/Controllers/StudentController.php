@@ -16,7 +16,7 @@ class StudentController extends Controller
 
     public function create()
     {
-        return view('student.create');
+        // return view('student.create');
     }
 
     public function store(Request $request)

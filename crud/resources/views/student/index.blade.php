@@ -26,16 +26,16 @@
     <th width="280px">Action</th>
 </tr>
 
-@foreach($students as $student)
+@foreach($student as $value)
 <tr>
     <td>{{++$i}}</td>
-    <td>{{$student->name}}</td>
-    <td>{{$student->course}}</</td>
-    <td>{{$student->fee}}</</td>
+    <td>{{$value->name}}</td>
+    <td>{{$value->course}}</</td>
+    <td>{{$value->fee}}</</td>
 
-    <form action="{{route('student.destroy',$student->id)}}" method="POST">
-        <a class="btn btn-info" href="{{route('student.show',$student->id)}}">SHOW</a>
-        <a class="btn btn-primary" href="{{route('student.edit',$student->id)}}">EDIT</a>
+    <form action="{{route('student.destroy',$value->id)}}" method="POST">
+        <a class="btn btn-info" href="{{route('student.show',$value->id)}}">SHOW</a>
+        <a class="btn btn-primary" href="{{route('student.edit',$value->id)}}">EDIT</a>
         @csrf
         @method('DELETE')
         <button type="submit" class="btn btn-danger">DELETE</button>
