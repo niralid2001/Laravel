@@ -12,14 +12,14 @@
     </div>
 </div>
 @if($message = Session::get('success'))
-<div class="alert alert-succes">
+<div class="alert alert-success">
 <p>{{$message}}</p>
 </div>
 @endif
 
 <table class="table table-bordered">
 <tr>
-    <th>NO</th>
+    <th>Id</th>
     <th>Name</th>
     <th>Course</th>
     <th>Fee</th>
