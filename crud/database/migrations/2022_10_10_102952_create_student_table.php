@@ -18,6 +18,7 @@ class CreateStudentTable extends Migration
             $table->string('name');
             $table->string('course');
             $table->string('fee');
+            $table->string('image_path');
             $table->timestamps();
         });
     }

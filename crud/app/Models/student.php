@@ -11,6 +11,6 @@ class student extends Model
     protected $table = 'student';
     protected $primaryKey = 'id';
     protected $fillable = [
-        'name','course','fee'
+        'name','course','fee','image_path'
     ];
 }
