@@ -22,7 +22,7 @@
 </ul>
 </div>
 @endif
-<form action="{{route('student.store')}}" method="POST">
+<form action="{{route('student.store')}}" method="POST" enctype="multipart/form-data">
 @csrf
 <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12">
@@ -40,7 +40,13 @@
     <div class="col-xs-12 col-sm-12 col-md-12">
         <div class="form-group">
         <strong>Fee:</strong>
-        <input type="text" name="fee" class="form-control" placeholder="fee"><br>
+        <input type="text" name="fee" class="form-control" placeholder="fee">
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+        <div class="form-group">
+        <strong>Images</strong>
+        <input type="file" name="file" class="form-control"><br>
         </div>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12 text-center">

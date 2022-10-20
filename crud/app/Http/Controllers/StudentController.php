@@ -23,7 +23,13 @@ class StudentController extends Controller
            'name' => 'required',
            'course' => 'required',
            'fee' => 'required',
+           'image' => 'required|mimes:jpg,png,jpeg|max:5048',
        ]);  
+       $newImageName = time() . '-' . $request->name. '.' .
+       $request->image->extension();
+
+       $request->image->move(public_path('images'),$newImageName);
+
        student::create($request->all());
        return redirect()->route('student.index')
        ->with('success','Recorde inserted successfully...!');
