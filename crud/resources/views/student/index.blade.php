@@ -23,7 +23,6 @@
     <th>Name</th>
     <th>Course</th>
     <th>Fee</th>
-    <th>image</th>
     <th width="280px">Action</th>
 </tr>
 
@@ -33,7 +32,6 @@
     <td>{{$value->name}}</td>
     <td>{{$value->course}}</</td>
     <td>{{$value->fee}}</</td>
-    <td>{{$value->image_path}}</</td>
     <td>
     <form action="{{route('student.destroy',$value->id)}}" method="POST">
         <a class="btn btn-info" href="{{route('student.show',$value->id)}}">SHOW</a>

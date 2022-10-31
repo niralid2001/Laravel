@@ -23,12 +23,7 @@ class StudentController extends Controller
            'name' => 'required',
            'course' => 'required',
            'fee' => 'required',
-           'image_path' => 'required',
        ]);  
-       $newImageName = time() . '-' . $request->name. '.' .
-       $request->image_path->extension();
-
-       $request->image_path->move(public_path('image'),$newImageName);
 
        student::create($request->all());
        return redirect()->route('student.index')
