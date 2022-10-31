@@ -10,7 +10,7 @@
         <a class="btn btn-success" href="{{route('student.create')}}">Create Student</a>
         </div>
     </div>
-</div>
+</div><br>
 @if($message = Session::get('success'))
 <div class="alert alert-success">
 <p>{{$message}}</p>
