@@ -120,7 +120,14 @@ LEAVE TIME : 6:47 pm
 - biz_insti_admin
 -------------------
 	-record showing properly(fixed it in page lead management)
+	-Validation not working properly(fixed it in lead management)
 	-Creating a new record is showing in last not in first(fixed it in page lead management)
 	-Mobile box allows Text(fixed it in page lead management) 
+	-If Add Enquiry , Validations not working(fixed it in page enquiry)
+	-Validation not working properly(fixed it in page call log)
+	-Validation not working properly(fixed it in page visitor)
+
+
+
 
 
