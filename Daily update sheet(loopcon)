@@ -127,7 +127,51 @@ LEAVE TIME : 6:47 pm
 	-Validation not working properly(fixed it in page call log)
 	-Validation not working properly(fixed it in page visitor)
 
+___________________________________
 
+Novermber 2022
+--------------
+Date : 10 November 2022
+Day : Thursday
+
+========================
+ENTER TIME : 03:04 pm
+LEAVE TIME : 6:45 pm
+========================
+
+- biz_insti_admin
+-------------------
+	-Could not able Edit call log(fix it in page call log)
+	-Edit functionality not working(fix it in page visitor)
+	-saloonAcademy-CI_BUGSHEET(fix some error in this sheet)
+ 
+
+___________________________________
+
+Novermber 2022
+--------------
+Date : 11 November 2022
+Day : Friday
+
+========================
+ENTER TIME : 03:00 pm
+LEAVE TIME : 6:45 pm
+========================
+
+- biz_insti_admin
+-------------------
+	-If delete the visitors it reflects after refresh the page(fix it in page visitor)
+	-Active and Inactive button working  after refresh the page(fix it in page lead management)
+saloonAcademy-CI_BUGSHEET
+	-add visitor(fix it in page visitors)
+	-call log>>add call log(fix it in page call log)
+	-lead management>>add lead management >>check in list(fix it in page lead management)
+	-delete popup(fix it in page lead management)
+	-visitors>>add visitors>>heading
+	-visitors delete button
+	-visitors>>edit visitors
+	visitor>>visitor delete(successful msg)
+	-Enquiry>>add enquiry/update error message
 
 
 
