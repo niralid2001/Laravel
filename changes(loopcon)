@@ -1,0 +1,90 @@
+Saloon Academy 
+changes file 
+9/11/2022
+
+lead_management.php
+add_lead_management.php
+call_log.php
+visitors.php
+backend.js
+ajaxcall.php
+admin_header.php
+admin_footer.php
+add_enquiry.php
+
+10/11/2022
+
+lead_management.php
+visitors.php
+add folder -> plugins in assets
+
+
+11/11/2022
+ajaxcall.php
+backend.js
+visitor
+add enquiry
+enquiry
+
+17/11/2022
+add_lead_management
+lead_management
+backend.js
+ajaxcall
+admin_profile
+
+18/11/22
+ajaxcall
+backend.js
+add_leadmanagement
+leadmanagement
+add-enquiry
+english_lan.php
+arabic_lan.php
+french_lan.php
+
+19/11/22
+add_lead_management
+english_lang.php	line -----1038 & 1039......1009 & 1010
+french_lan.php		line -----1006 & 1007......979 & 980
+arabic_lan.php		line -----974 & 975........946 & 947
+ajaxcall.php		line -----12581 & 12582.... 2691 & 2692 & 2693...12166
+payment_history.php line------51	
+
+21/11/22
+backend.js - 164 to 194 , 1070 , 1071
+add_lead_management.php - 68
+lead_management.php - 36
+english_lang.php - 1025 , 1026
+french_lang.php - 994 , 995
+arabic_lang.php - 961 , 962
+ajaxcall.php - 12497 to 12519
+calllog.php - 23
+
+
+client changes file path saloon academy
+
+https://loopcon.in/biz_insti_admin\application\views\admin > lead_management.php
+https://loopcon.in/biz_insti_admin\application\views\admin > add_lead_management.php
+https://loopcon.in/biz_insti_admin\application\views\admin > placement_tracker.php
+https://loopcon.in/biz_insti_admin\application\views\admin > add_enquiry.php
+https://loopcon.in/biz_insti_admin\application\views\admin > enquiry.php
+https://loopcon.in/biz_insti_admin\application\views\admin > call_log.php
+https://loopcon.in/biz_insti_admin\application\views\admin > visitors.php
+https://loopcon.in/biz_insti_admin\application\views\admin > payment_history.php
+
+https://loopcon.in/biz_insti_admin\application\language\arabic > arabic_lang.php
+https://loopcon.in/biz_insti_admin\application\language\english > english_lang.php
+https://loopcon.in/biz_insti_admin\application\language\french > french_lang.php
+
+https://loopcon.in/biz_insti_admin\application\views\common > admin_footer.php 
+https://loopcon.in/biz_insti_admin\application\views\common > admin_header.php
+
+https://loopcon.in/biz_insti_admin\assets\js > backend.js
+https://loopcon.in/biz_insti_admin\application\controllers > Ajaxcall.php
+
+https://loopcon.in/biz_insti_admin\assets\plugins > [add new plugin - assets/plugin/Parsley
+
+
+Not uploaded file 
+---------------------------
