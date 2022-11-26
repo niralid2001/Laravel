@@ -1,4 +1,5 @@
 Saloon Academy 
+---------------
 changes file 
 9/11/2022
 
@@ -84,7 +85,74 @@ https://loopcon.in/biz_insti_admin\assets\js > backend.js
 https://loopcon.in/biz_insti_admin\application\controllers > Ajaxcall.php
 
 https://loopcon.in/biz_insti_admin\assets\plugins > [add new plugin - assets/plugin/Parsley
+______________________________________________________________________________________________
+
+Damaxfx
+------------
+22/11/22
+app > http > controllers > backend > TradingplateformController.php - 24
+app > http > controllers > backend > LisenceController.php - 56
+app > http > controllers > backend > BonusTypesController.php - 56
+view > backend > tradingPlatform > index.blade.php - 80
+view > backend > bonus_type > index.blade.php - 80 to 97
+view > backend > layout > header.blade.php - 17, 18
+
+23/11/22
+view > backend > Account_type > index.blade.php - 79 to 102
+app > http > controllers > backend > PaymentOptionController.php - 24 , 56
+app > http > controllers > backend > TradingAssetController.php - 56
+view > backend > news > form.blade.php - 55,65,113,123,169
+view > backend > layout > sidebar.blade.php - 40
+app > http > controllers > backend > ArticalController.php - 24
+view > backend > artical > form.blade.php - 55,65,123,169
+view > backend > broker > form.blade.php - 34,62,132,138,225,368
+view > backend > broker > faq > form.blade.php - 33	
+view > backend > broker > bonus > form.blade.php - 34,87,246
+view > backend > broker > bonus > list.blade.php - 103	
+view > front > broker > detail.blade.php - 299,333,339,345,351	
+
+24/11/22
+view > front > broker > detail.blade.php - 205,346
+view > backend > news > form.blade.php - 169
 
 
 Not uploaded file 
 ---------------------------
+
+eshop(vendurs)
+--------------
+24/11/22
+application > view > admin > pages > forms > banner.php - 33
+application > view > admin > pages > forms > deal.php - 33,53,59
+application  > controllers > admin > Deals.php - 101,138
+application\controllers\admin\Category.php - 163
+application\controllers\admin\Banner.php - 88
+application\controllers\admin\Brand.php - 72
+application\controllers\admin\Slider.php - 105
+application\controllers\admin\Offer.php - 63
+application\controllers\admin\Featured_sections.php - 56
+
+25/11/22
+application\views\admin\pages\forms\category.php - 33 
+application\controllers\admin\Category.php - 180
+application\views\admin\pages\forms\brand.php - 33
+application\views\admin\pages\forms\attribute.php - 31,55
+eshop\assets\admin\custom\custom.js - 6088
+application\views\admin\pages\forms\tax.php - 32,38
+application\controllers\admin\Taxes.php - 102,103
+application\controllers\admin\Slider.php - 125
+application\views\admin\pages\tables\customer-wallet.php - 29,44,50
+application\helpers\function_helper.php - 956
+application\controllers\admin\Featured_sections.php - 144
+application\views\admin\pages\tables\featured_section.php - 34
+application\controllers\admin\Promo_code.php - 150
+application\controllers\admin\Offer.php - 76
+
+26/11/22
+application\views\admin\pages\forms\product.php - 257
+application\views\seller\pages\forms\product.php - 251
+application\views\admin\pages\forms\product.php - 37
+pplication\controllers\admin\Attribute_set.php - 101
+application\views\admin\pages\forms\attribut-set.php - 34
+application\views\admin\pages\tables\manage-notification.php - 119
+application\controllers\admin\Notification_settings.php - 286
