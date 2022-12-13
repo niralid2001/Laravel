@@ -1,0 +1,45 @@
+@font-face 
+{
+    font-family: 'D-DIN';
+    src: url("D-DIN.otf") format("opentype");
+}
+@font-face 
+{
+    font-family: 'D-DIN-Bold';
+    src: url("D-DIN-Bold.otf") format("opentype");
+}
+@font-face 
+{
+    font-family: 'D-DINCondensed';
+    src: url("D-DINCondensed.otf") format("opentype");
+}
+@font-face 
+{
+    font-family: 'D-DINCondensed-Bold';
+    src: url("D-DINCondensed-Bold.otf") format("opentype");
+}
+@font-face 
+{
+    font-family: 'D-DINExp';
+    src: url("D-DINExp.otf") format("opentype");
+}
+@font-face 
+{
+    font-family: 'D-DINExp-Bold';
+    src: url("D-DINExp-Bold.otf") format("opentype");
+}
+@font-face 
+{
+    font-family: 'D-DINExp';
+    src: url("D-DINExp.otf") format("opentype");
+}
+@font-face 
+{
+    font-family: 'D-DIN-Italic';
+    src: url("D-DIN-Italic.otf") format("opentype");
+}
+@font-face 
+{
+    font-family: 'Letter-Kids';
+    src: url("Letter-Kids-Demo.ttf") format("truetype");
+}

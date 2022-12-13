@@ -1,0 +1,328 @@
+@media (max-width: 1199.98px) { 
+    .nav-link{
+        font-size: 1.1rem ;
+        color: black;
+        font-weight: 600;
+    }
+    
+    .brokerbonusimg{
+        width: 200px; 
+        float:right; 
+        height: 170px; 
+        object-fit: cover;
+    }
+
+    .tradingform{
+      width: 40%;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+ }
+
+
+ @media (max-width: 991.98px) { 
+    .nav-link{
+        font-size: 1rem ;
+        color: black;
+        font-weight: 600;
+    }
+
+    .brokerbonusimg{
+        width: 150px; 
+        float:right; 
+        height: 170px; 
+        object-fit: cover;
+    }
+
+    .btnsection{
+      display: flex;
+      justify-content: space-around;
+      vertical-align: middle;
+      padding: 10px 0px;
+      
+    }
+
+    .getbonusbtn{
+      margin-top: 0px;
+      margin-left: 15px;
+     }
+
+     .tradebtn{
+      margin-bottom: 0px;
+    }
+    
+
+     .broallwedtrad, .bonus {
+      display: none;
+     }
+
+
+     /* broker  page start  */
+     .brotypeofbroker{
+        display: none;
+     }
+
+     .flipimg{
+      width: 9rem;  
+       /* padding: 10px; */
+    }
+     /* broker page end  */
+
+    
+
+     /* post detail page start css  */  
+        .dtradebtn{
+          width: 5.5rem;
+          border-radius: 5px;
+          background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+          color:white; 
+          font-size:0.9rem;
+          padding: 5px;
+          border-radius: 5px;
+          text-align: center;
+          }        
+
+          .dbrokerbtn{
+            width: 5.5rem;
+            background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+            color:white; 
+            font-size:0.9rem;
+            padding: 7px;
+            margin-top: 10px;
+            text-align: center;
+            border-radius: 5px;
+          }
+
+     /* post detail page end  */
+
+     /* slider css  */
+     .slidertext h2{
+        font-size: 1.8rem;
+     }
+     .slidertext p{
+      font-size: 1rem;
+   }
+     /* slider css  */
+     .tradingform{
+      width: 50%;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+  }
+
+  @media (max-width: 767.98px) { 
+    .nav-link{
+        font-size: 0.9rem ;
+        color: black;
+        font-weight: 600;
+    }
+
+    .mostdet{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .brokerbonusmain{
+        display: flex;
+        justify-content: center;
+    }
+
+    .letestpostssec{
+        margin-top: 20px;
+    }
+
+    .btnsection{
+      display: block;
+      justify-content: center;
+      padding: 10px 0px;
+    }
+
+    .getbonusbtn{
+      margin-top: 15px;
+      margin-left: 0px;
+     }
+
+     
+    /* post detail page start css  */  
+      .dtradebtn{
+        width: 5rem;
+        border-radius: 5px;
+        background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+        color:white; 
+        font-size:0.9rem;
+        padding: 5px;
+        border-radius: 5px;
+        text-align: center;
+        }        
+  
+      .dbrokerbtn{
+        width: 5rem;
+        background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+        color:white; 
+        font-size:0.9rem;
+        padding: 7px;
+        margin-top: 10px;
+        text-align: center;
+        border-radius: 5px;
+      }
+  
+    /* post detail page end  */
+    .tradingform{
+      width: 70%;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+     
+  }
+
+  @media (max-width: 575.98px) { 
+    .nav-link{
+        font-size: 0.8rem ;
+        color: black;
+        font-weight: 600;
+      }
+
+      .slidebg{
+        background-image: url("../img/background.jpg");
+        background-size: 100%;
+        background-repeat: repeat;
+        height: 70%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        transform: translateY(80px); 
+        margin-top: 5px;
+      }
+      
+      /* slider css  */
+     .slidertext h2{
+      font-size: 1.3rem;
+   }
+   .slidertext p{
+    font-size: 0.9rem;
+ }
+   /* slider css  */
+
+
+
+
+      .tradingplatforms, .bonus, .brocurrencypass, .customersupport, .brodepositmethod, .broallwedtrad  {
+        display: none;
+      }
+
+       
+      .bromindeposit, .brotradinginstru, .brotypeofbroker, .brominspread, .bromaxleverage, .broregulated {
+        text-align: center;
+      }
+
+      .broregulatedicon{
+        display: flex;
+        justify-content: center;
+      }
+      
+      .brokerbonusmain{
+        display: flex;
+        justify-content: center;
+      }
+
+      .letestposts{
+        margin-top: 20px;
+      }
+
+      .brokerbonusimgmain{
+        display: flex;
+        justify-content: center ;
+      }
+
+    .brokerbonusimg{
+          height: 120px;
+          width: 120px;
+          object-fit: cover;
+      }
+
+      .btnsection{
+        display: flex;
+        justify-content: space-around;
+        padding: 10px 0px;
+      }
+
+      .tradebtn{
+        margin-bottom: 0px;
+      }
+
+      .getbonusbtn{
+        margin-top: 0px;
+        margin-left: 15px;
+       }
+
+       .brokerbonustext{
+        font-size: 0.9rem; 
+        color:#555555; 
+        letter-spacing:1px; 
+        }
+
+        /* post detail page start css  */  
+      .dtradebtn{
+        width: 6rem;
+        border-radius: 5px;
+        background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+        color:white; 
+        font-size:0.9rem;
+        padding: 5px;
+        border-radius: 5px;
+        text-align: center;
+        }        
+  
+      .dbrokerbtn{
+        width: 6rem;
+        background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+        color:white; 
+        font-size:0.9rem;
+        padding: 7px;
+        margin-top: 10px;
+        text-align: center;
+        border-radius: 5px;
+      }
+      
+
+      .minimumimg{
+        position: relative;
+        top:0;
+      }
+  
+      .minimumimgposition{
+        position: absolute;
+        top:0;
+        left:0;
+        transform: translateY(20%);
+      }
+  
+    /* post detail page end  */
+
+    .broregulated {
+      padding: 10px 0px;
+    }
+
+    .bgcard{
+      max-width: 100%;
+    }
+
+    .tradingform{
+      width: 90%;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+   }
+
+
+
+
+
+

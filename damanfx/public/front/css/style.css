@@ -1,0 +1,1094 @@
+
+
+/* .common{
+	background-color : #ffffff;
+} */
+
+
+.spacecom{
+	margin: 20px 0px  ;
+}
+/* navbar css */
+
+/* .logoimg{
+
+} */
+/* .nava{
+	
+}
+.starttrading{
+	
+} */
+
+/* 
+.earthicon{
+	
+} */
+
+
+/* sluider css  */
+
+/* .slidebg{
+	background-image: url("img/background.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 70%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: white;	
+} */
+
+
+/* most trust FX  */
+
+
+/* .mosttrust{
+	font-size: 2rem;
+	margin: 10px ;
+	padding: 5px;
+	color:  rgb(29, 155, 56 ) ;
+	border-bottom:  4px solid rgb(29, 155, 56 );
+	width: auto;
+	
+} */
+
+/* .mostdet{
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+} */
+
+/* .mostdet i {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 1.2rem;
+} */
+
+/* .pointp{
+	font-size: 1rem;
+	font-weight: 700;
+	opacity: 0.8;
+	padding: 5px;
+} */
+
+/* .p-used{
+	font-size: 0.8rem;
+	opacity: 0.7;
+	font-weight: 700;
+} */
+
+/* .comment{
+	display: flex;
+	padding: 0px 10px;
+
+} */ 
+
+/* .starsicon{
+	display: flex;
+	justify-content: center;
+	color: rgb(29, 155, 56 );
+} */
+/* .comment h5{
+	
+} */
+
+
+/* .mindepositcot{
+	background-color: rgb(247, 247, 249);
+
+} */
+/* .mindepositcot li {
+	font-weight: 700;
+	list-style: none;
+	font-size: 0.8rem;
+
+} */
+
+/* .mindeptext{
+	text-decoration: none;
+	font-size: 0.8rem;
+	font-weight: 500;
+	opacity: 0.8;
+	color: black;
+} */
+
+/* .mindeptext:hover{
+	color: black;
+} */
+
+/* .fasaicon{
+	width: 12px;
+	padding: 1px;
+} */
+
+
+
+.tradebtn{
+	color: white;
+	background:  linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+	padding: 5px 15px;
+	border-radius: 2px;
+	border: none;
+	border-radius: 5px;
+  text-align: center;
+  width: 120px;
+}
+
+.getbonusbtn{
+  text-align: center;
+  width: 120px;
+	background: linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+	color: white;
+	border: none;
+	border-radius: 5px;
+	padding: 5px ;
+  
+	/* margin-top: 15px; */
+ }
+
+
+
+
+ 
+/* .signal{
+	width: 2rem;
+} */
+
+/* .flipimg{
+	width: 9rem;
+	padding: 10px;
+} */
+
+
+
+
+
+
+/* .load-compare{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	margin: 10px;
+} */
+
+/* .loadbtn{
+	background: linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+	border: none;
+	padding: 5px 20px;
+	color: white;
+	font-size: 1.2rem;
+	border-radius: 5px;
+	margin: 10px;
+} */
+
+/* .comparebtn{
+	border:  1px solid rgb(142, 192 , 69);
+	color: rgb(29, 155, 56 );
+	font-size: 1.2rem;
+	font-weight: 500;
+	padding: 5px 20px;
+	border-radius: 5px;
+} */
+
+
+/* card css  */
+
+/* .letestposts{
+	color: rgb(29, 155, 56 );
+	padding: 5px;
+	margin: 10px;
+	border-bottom: 4px solid rgb(29, 155, 56 );
+	width: auto;
+} */
+
+/* .bgcard{
+	background-color: rgb(242, 245, 250);
+} */
+
+/* .cardimg{
+	height: 200px;
+} */
+
+
+ /* no deposit trading bonus end  */
+
+/* letest news start   */
+
+/* .letestnew{
+	color: rgb(29, 155, 56 );
+	padding: 5px;
+	margin: 10px;
+	border-bottom: 4px solid rgb(29, 155, 56 );
+	width: auto;
+} */
+
+/* .rasiyauk{
+	background-image: url('img/political.webp');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 210px;
+	color: white;
+	display: flex;
+	align-items: flex-end;
+}	 */
+
+
+/* .toyota{
+	background-image: url("img/car.webp");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 210px;
+	display: flex;
+	align-items: flex-end;
+	color: white;	
+} */
+
+/* .mhtimg{
+	background-image: url("img/sport.webp");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 210px;
+	display: flex;
+	align-items: flex-end;
+	color:white;	
+} */
+
+/* .entertainmwnt{
+	background-image: url("img/entertenment.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 210px;
+	display: flex;
+	align-items: flex-end;
+	color:white;	
+} */
+
+/* .crewmember{
+	background-image: url("img/niravmodi.webp");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 210px;
+	display: flex;
+	align-items: flex-end;
+	color:white;	
+} */
+
+/* .covidstate{
+	background-image: url("img/covid.webp");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 210px;
+	display: flex;
+	align-items: flex-end;
+	color:white;	
+} */
+	
+/* .congree{
+	
+	background: rgba(0, 0, 0, 0.4);
+	padding: 10px;
+} */
+
+/* .congree p{
+	font-size: 1rem;
+} */
+
+/* .congree h4 {
+	font-size: 1.5rem;
+} */
+
+ /* footer star  */
+
+  
+  /* #button-addon1 {
+	color: #ffc371;
+  }
+   */
+
+  /* .footer i {
+	color: rgb(29, 155, 56 );
+  }
+   */
+
+  /* .form-control::placeholder {
+	font-size: 0.95rem;
+	color: #aaa;
+	font-style: italic;
+  } */
+  
+
+  .common {
+	background-color: #ffffff !important;
+}
+
+
+ .commonimg:hover{
+  transform: scale(1.1);
+  transition: 0.4s;
+  padding:5px ;
+ }
+
+
+.spacecom {
+	margin: 20px;
+}
+
+/* navbar css */
+
+.logoimg {
+	width: 8rem;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  color: black;
+  font-weight: 600;
+}
+
+
+.navbarmain{
+  position: fixed ; 
+  top: 0;
+  left: 0;
+  right:0;
+  width: 100%;
+  z-index:  1;
+  box-shadow: rgb(0 0 0 / 8%) 0 4px 8px;
+  background: white;
+}
+
+.navbar-nav {
+  margin-right: auto;
+  
+}
+
+.besttradhedings{
+  margin-top: 15px;
+}
+
+.nava-items{
+  padding-left: 12px ;
+}
+.navaitemshead{
+  padding-left: 30px;
+}
+
+
+.starttrading{
+  text-decoration: none;
+  background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+  color: white;
+  border: none;
+  padding: 8px;
+  font-size: 1.2rem;
+  border-radius: 5px; 
+  
+}
+
+/* allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  */
+
+.dropdown-menu{
+  
+  transform: translateX(-80px)
+}
+.dropdown-toggle::after{
+  display: none;
+}
+.dropdown-toggle {
+  background: none ;
+  border: none;
+}
+
+.nava:hover{
+  color:black !important;
+}
+
+.starttradinghead{
+  display: flex;
+}
+
+.starttradinghead li {
+  list-style: none;
+}
+
+.starttrading {
+	text-decoration: none;
+	background: linear-gradient(90deg, rgba(69, 161, 68, 1) 37%, rgba(141, 191, 69, 1) 54%);
+	color: white;
+	border: none;
+	padding: 8px;
+	font-size: 1.2rem;
+	border-radius: 5px;
+  transform: translateX(15px);
+}
+
+
+.earthicon {
+	font-size: 1.5rem;
+	padding-left: 10px;
+  transform: translateX(25px);
+}
+
+.dropdown:hover ul.dropdown-menu{ 
+   display: block; 
+  }
+
+/* slider css  */
+
+.slidebg{
+	background-image: url("../img/background.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:#CCCCCC;
+  transform: translateY(80px); 
+  margin-top: 5px;
+}
+
+/* .slidertext{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  color: #CCCCCC;
+  text-align: center;
+} */
+
+/* nodesposit start  */
+.mosttrustedfxmain{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.mostdet h2{
+  margin: 0px;
+}
+
+.flipimg{
+  width: 9rem;  
+   padding: 10px;
+}
+
+.depositbg{
+    background:rgb(248, 248,  248) ;
+    border: 1px dotted rgba(0, 0, 0 , 0.2);
+}
+
+.depositheading{
+    background:rgb(248, 248, 248) ;
+    padding: 10px;	 
+}
+
+.depositpara{
+    padding: 0px;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    font-weight: 600;
+    opacity: 0.7;
+}
+
+.nodespositimg{
+    width: auto;
+}
+
+.promotionhead{
+    width: 100%;
+    display: flex;
+}
+
+
+.promotiontext{
+    border-bottom: 2px solid rgb(69, 161, 68);
+    width: auto;
+
+}
+
+.tableimg{
+    width: 20px;
+}
+
+.tableimg {
+    color: red;
+}
+
+
+
+
+.registerstyle{
+    list-style-type:square
+}
+
+.viewbtn{
+    background: linear-gradient(90deg, rgba(69, 161, 68, 1) 37%, rgba(141, 191, 69, 1) 54%);
+    color: white;
+    width: 100%;
+    font-size: 1.3rem;
+    padding: 15px;
+    border: none;
+}
+
+.featurebtn{
+    background: linear-gradient(90deg, rgba(69, 161, 68, 1) 37%, rgba(141, 191, 69, 1) 54%) ;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    font-size: 1.3rem;
+    text-align: start;
+    border: none;
+}
+
+.cpmimg{
+    width: 8rem;
+}
+
+.applybtn{
+    background: linear-gradient(90deg, rgba(69, 161, 68, 1) 37%, rgba(141, 191, 69, 1) 54%) ; 
+    padding: 10px;
+    color: white;
+    border: none;
+}
+
+.aximmain{
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    padding: 5px;
+}
+
+.aximtext{
+    padding: 0px;
+    margin: 0px;
+    font-size: 0.9rem;   
+}
+
+.depositborder{
+    border: 1px dotted rgba(0, 0, 0 , 0.5);
+    padding: 10px;
+    /* opacity: 0.7; */
+}
+
+
+.feedback-input {
+  color:black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:1px solid black;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:1px solid black; }
+
+textarea {
+  height: 150px;
+  line-height: 150%;
+  resize:vertical;
+}
+
+.postbtn{
+    background: linear-gradient(90deg, rgba(69, 161, 68, 1) 37%, rgba(141, 191, 69, 1) 54%) ;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+}
+
+
+.tablehover:hover{
+    background: #eee;
+}
+
+.relatedhead{
+    background: #e6e6e6;
+}
+
+.relatedtext{
+    background: #f1f1f1;
+}
+
+.relatedhover:hover{
+    border-left: 2px solid rgb(69, 161, 68);
+}
+
+.evesthead{
+    background: #f2f2f2;
+}
+
+
+
+.evestp{
+    padding:0px;
+    margin: 0px;
+}
+.brokericon{
+    color: rgb(69, 161, 68);
+}
+
+.neestomake{
+    list-style-type:square;
+}
+
+.captchimg{
+    width: 20px;
+}
+
+.captch{
+    background: #f9f9f9;
+    width: 200px;
+    /* padding: 10px; */
+
+}
+
+
+.brokername{
+    padding: 8px;
+    margin: 0px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.evesttext{
+    padding: 8px;
+    margin: 0px;
+    font-size: 1.1rem;
+}
+
+.evest{
+    border-right: 2px solid white;
+}
+
+
+
+
+
+
+.activetext{
+    padding: 8px;
+    margin: 0px;
+    font-size: 1.2rem;
+    color: rgb(69, 161, 68);
+}
+
+.rating {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: start;
+}
+
+.rating label {
+  float: right;
+  position: relative;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.rating label:not(:first-of-type) {
+  padding-right: 2px;
+}
+.rating label:before {
+  content: "★";
+  font-size: 42px;
+  color: #CCCCCC;
+  line-height: 1;
+}
+.rating input {
+  display: none;
+}
+.rating input:checked ~ label:before, .rating:not(:checked) > label:hover:before, .rating:not(:checked) > label:hover ~ label:before {
+  color: #F9DF4A;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.addbtn{
+    border: none;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.addbtn i {
+    color: gold;
+}
+
+.addbtn:hover{
+    background: gold;
+}
+
+.ratingper{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: gold;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    
+}
+
+.xtbimg{
+    width: 220px;
+}
+
+.quicktext{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* xtb detail start  */
+
+/* review start  */
+.reviewbg{
+    background: gold;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: white;
+    font-weight: 600;
+}
+
+.staricon{
+    color: gold;
+    padding-top: 5px;
+    text-align: center;
+    margin: 0px;
+}
+
+.startext{
+    
+    margin: 0px;
+    font-size: 1.2rem;
+}
+
+/* share for voting start  */
+
+
+  /* label {
+    cursor: pointer;
+  } */
+  
+  svg {
+    width: 2rem;
+    height: 2rem;
+    padding: 0.15rem;
+  }
+  
+  
+  /* hide radio buttons */
+  
+  input[name="star"] {
+    display: inline-block;
+    width: 0;
+    opacity: 0;
+    margin-left: -2px;
+  }
+  
+  /* hide source svg */
+  
+  .star-source {
+    width: 0;
+    height: 0;
+    visibility: hidden;
+  }
+  
+  
+  /* set initial color to transparent so fill is empty*/
+  
+  .star {
+    color: transparent;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  
+  /* set direction to row-reverse so 5th star is at the end and ~ can be used to fill all sibling stars that precede last starred element*/
+  
+  .star-container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+  }
+  
+  label:hover ~ label .star,
+  svg.star:hover,
+  input[name="star"]:focus ~ label .star,
+  input[name="star"]:checked ~ label .star {
+    color: gold;
+  }
+  
+  input[name="star"]:checked + label .star {
+    animation: starred 0.5s;
+  }
+  
+  input[name="star"]:checked + label {
+    animation: scaleup 1s;
+  }
+  
+  @keyframes scaleup {
+    from {
+      transform: scale(1.2);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  
+  @keyframes starred {
+    from {
+      color: gold;
+    }
+    to {
+      color: gold;
+    }
+  }
+
+
+
+  /* detail page change  */
+
+  .headingtraslate{
+    transform:translateY(65px);
+  }
+  .company-side-card{
+        border-radius: 5px;
+        padding: 10px 0 10px 0;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .trade-form-side-card{
+        border-radius: 7px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        padding: 10px;
+  }
+  a{
+      text-decoration: none;
+      color: inherit;
+  }
+  .footermaindiv{
+    transform: translateY(80px);
+  }
+
+  .dbrokerbtn{
+    width: 6rem;
+    background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+    color:white; 
+    font-size:0.9rem;
+    padding: 7px;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+  .dtradebtn{
+    width: 6rem;
+    border-radius: 5px;
+    background:linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%);
+    color:white; 
+    font-size:0.9rem;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+/* detail page change  */
+
+
+/* news detailpage start  */
+    .minimumimg{
+      position: relative;
+      top:0;
+    }
+
+    .minimumimgposition{
+      position: absolute;
+      top:0;
+      left:0;
+      transform: translateY(50%);
+    }
+
+    .reviewimg{
+      position: relative;
+    }
+    .reviewimgposition{
+      position: absolute;
+      top:0;
+      left:0;
+      transform: translateY(50);
+    }
+/* news detailpage end  */
+
+
+
+/* trsding form css  */
+
+.tradingtitle{
+  text-align: center;
+  margin: 1.5rem 0px;
+}
+
+.tradindformhead{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.tradingform{
+  width: 30%;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.tradingbtn{
+  background: linear-gradient(90deg, rgba(69, 161, 68, 1) 37%, rgba(141, 191, 69, 1) 54%) ;
+  color: white; 
+  border: none;
+  padding: 7px 15px;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+/* latest post start */
+
+.card{
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  max-width: 100%;
+}
+
+.card-body a {
+  color: rgb(29, 155, 56 ); font-size :1.3rem;
+  border: none;
+}
+
+/* latest post  end */
+
+
+/* broker bonus css start  */
+.brokerbonushead{
+  margin-top: 30px;
+  padding: 20px 10px ; 
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.brokerbonusimg{
+   float:right; height: 160px; object-fit: cover;
+}
+
+.brokerbonustext{
+  font-size: 1.1rem; color:#555555; letter-spacing:1px; 
+}
+
+.brokerbonusmain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.bonuspromotionbtnbonus{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  width: 230px;
+  padding: 5px ;
+  margin: 0px 10px;
+  height: 35px;
+  margin-top: 10px;
+}
+
+.bonuspromotionbtnendon{
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  width: 230px;
+  padding: 5px ;
+  margin: 0px 10px;
+  color: rgb(29, 155, 56 );
+  margin-top: 10px;
+}
+
+.bonuspromotionbtnget{
+  border-radius: 5px ; 
+  color: white; 
+  background: linear-gradient(90deg, rgba(69,161,68,1) 37%, rgba(141,191,69,1) 54%); 
+  border: none; 
+  height: 35px;
+  width: 120px;
+  margin-top: 10px;
+  
+}
+
+/* broker bonus css end  */
+
+/* news detail page start   */
+  
+  .besttraddetail{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+/* news detail page end  */
+
+
+
+
+/* arabic langauge css start  */
+
+
+
+
+
+body:lang(ar){
+  direction: rtl;
+}
+
+
+.dropdown-menu:lang(ar){
+  transform: translateX(20px);
+}
+.staricon:lang(ar){
+  display: flex;
+  flex-direction: row-reverse;
+  color: rgb(29, 155, 56 );
+  justify-content: center;
+}
+.navbar-nav:lang(ar){
+  margin-right: auto;
+}
+
+.tradebtn:lang(ar){
+  width:105px;
+}
+.getbonusbtn:lang(ar){
+  width: 105px;
+}
+
+
+
+.dbrokerbtn:lang(ar){
+  width:100px;
+  text-align: center;
+}
+
+.dtradebtn:lang(ar){
+  width:100px;
+  text-align: center;
+}
+/* arabic langauge css end  */

@@ -1,0 +1,212 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 16, 2021, 4:15:38 PM
+    Author     : loopcon6
+*/
+.select-parsley ul li {
+    position: absolute;
+    bottom: -13px;
+}
+.remove-icon-main 
+{
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    background-color: #fff;
+    width: 27px;
+    height: 25px;
+    line-height: 27px;
+    text-align: center;
+    border-radius: 3px;
+    z-index: 5;
+}
+.remove-icon-main i 
+{
+    font-size: 17px;
+    color: #b60f16;
+}
+.app-dis-button
+{
+    float: right;
+    padding: 3px 5px;
+
+}
+.app-dis-button i{font-size: 15px;}
+.app-dis-button a{text-decoration: none;padding: 0 2px;}
+.app-dis-button i.fa-window-close{color: red;}
+.app-dis-button i.fa-check-square{color: green;}
+
+.product_list_label{
+    word-break: break-all;
+    height: auto;
+    font-size: 15px;
+}
+.verification_label
+{
+    font-size: 14px;
+    line-height: 25px;
+    overflow: hidden;
+}
+.hgt-50{height: 50px;}
+
+.img-radius{ border-radius: 20px }
+
+ul.parsley-errors-list li {
+    margin-top: 6px;
+}
+.telpicker_myprofile_altphone .cc-picker-code-select-enabled
+{   
+    position: absolute;
+    top: 30px;
+    left: 24px;
+    background: white;
+    height: 30px;
+    line-height: 34px;
+    padding-left: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}
+.tab-pane .cc-picker-code-select-enabled::after {
+    top: 15px;
+}
+.telephone_field
+{
+    width: 75%;
+    margin-left: 25%;
+}
+.telephone_field_profile
+{
+    width: 60%;
+    margin-left: 40%;
+}
+table.dataTable.dtr-column>tbody>tr>td.dtr-control:before{
+    top: 20px;
+    right: 20px;
+    left: unset;
+}
+.select2-container {
+    width: 100% !important;
+}
+.download-icon-main
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 50%;
+    background: white;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    color: #B60F16;
+    font-size: 23px;
+    margin: auto;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.gallery-approve{
+    position: absolute;
+    top: -31px;
+    right: 38%;
+}
+.remove-icon{
+    color: #B60F16;
+    text-align: right;
+    display: inline-block;
+    float: right;
+}
+.remove-icon-catalog{
+    color: #B60F16;
+    text-align: right;
+    position: absolute;
+    right: 0;
+    background: white;
+    padding: 2px 10px;
+}
+.invitation-letter{
+  letter-spacing: 3px;
+  font-family: 'ReginaScript-d9xAX' !important;
+  font-size: 2.5rem;
+  font-weight: normal !important;
+}
+.invitation-expo-name{
+    font-size: 25px;
+}
+.invitation{
+    margin: 30px auto; 
+    border: 1px solid #D2AC47;
+    padding: 0px 20px 25px;
+    max-width: 500px;
+    color: #D2AC47;
+    font-family: 'Metropolis-Regular'
+}
+.invitation-btn
+{
+    max-width: 750px;
+    margin: 0 auto;
+}
+.gold-color{
+    color: #D2AC47;
+    font-weight:bolder;
+    font-family: 'Metropolis-Regular'
+}
+
+.user-order .card-header h2 button i {
+    float: right;
+    position: relative;
+    top: 5px;
+}
+
+.user-order .card-header h2{
+    background: #dee6ed;
+    padding: 5px;
+    border-radius: 5px;
+}
+.user-order .card-header button{
+    color: #6c757d;    
+}
+.mini-body .qty {
+    background-color: #dee6ed;
+    color: #6c757d;
+    border-radius: 0px;
+    width: fit-content;
+    width: max-content;
+    box-shadow: none;
+    margin-top: 0px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+}
+.mini-body .minus1, .mini-body .plus1 {
+    font-size: 12px;
+    margin-top: 2px;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+    width: 35px;
+}
+.mini-body .qty input {
+    height: 37px;
+    font-size: 15px;
+    width: 55px;
+    text-align: center;
+}
+.accordion .card-body tbody td:nth-child(2) {
+    width: 30%;
+}
+.accordion .card-body tbody td {
+    vertical-align: middle;
+}
+.checked{
+    color: orange;
+}
