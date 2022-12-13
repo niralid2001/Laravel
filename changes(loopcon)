@@ -85,7 +85,7 @@ https://loopcon.in/biz_insti_admin\assets\js > backend.js
 https://loopcon.in/biz_insti_admin\application\controllers > Ajaxcall.php
 
 https://loopcon.in/biz_insti_admin\assets\plugins > [add new plugin - assets/plugin/Parsley
-______________________________________________________________________________________________
+_________________________________________________________________________________________
 
 Damaxfx
 ------------
@@ -115,9 +115,12 @@ view > front > broker > detail.blade.php - 299,333,339,345,351
 view > front > broker > detail.blade.php - 205,346
 view > backend > news > form.blade.php - 169
 
+1/12/22
+damanfx\resource\lang\ar.json - 102 ,118, 121,170
+damanfx\resource\lang\en.json - 102 ,118, 121,170
 
-Not uploaded file 
----------------------------
+
+_________________________________________________________________________________________
 
 eshop(vendurs)
 --------------
@@ -149,10 +152,46 @@ application\controllers\admin\Promo_code.php - 150
 application\controllers\admin\Offer.php - 76
 
 26/11/22
-application\views\admin\pages\forms\product.php - 257
+application\views\admin\pages\forms\product.php - 37,257
 application\views\seller\pages\forms\product.php - 251
-application\views\admin\pages\forms\product.php - 37
 pplication\controllers\admin\Attribute_set.php - 101
 application\views\admin\pages\forms\attribut-set.php - 34
 application\views\admin\pages\tables\manage-notification.php - 119
 application\controllers\admin\Notification_settings.php - 286
+application\controllers\admin\Custom_notification.php - 81
+application\views\admin\pages\forms\custom_notification.php - 55
+application\views\admin\pages\tables\manage-zipcodes.php - 37
+application\controllers\admin\Area.php - 393,287
+application\views\admin\pages\tables\manage-city.php - 37
+
+28/11/22
+application\views\admin\pages\tables\manage-area.php - 38
+application\controllers\admin\Area.php - 143,173
+application\models\Media_model.php - 122
+application\views\admin\pages\forms\ticket-type.php - 32
+application\controllers\admin\Tickets.php - 112
+application\views\front-end\classic\pages\product-page.php - 331
+application\views\admin\pages\forms\seller.php - 76,82,154,160,200,206,245,251,257,263,269
+application\controllers\admin\Faq.php - 83
+application\controllers\admin\Product_faqs.php - 86
+application\views\front-end\classic\pages\contact-us.php - 28,37
+
+29/11/22
+assets\front_end\classic\js\custom.js - 3690
+application\views\front-end\classic\pages\product-page.php - 331
+application\views\front-end\classic\pages\address.php - 33
+application\views\admin\pages\tables\manage-notification.php - 114
+assets\admin\custom\custom.js - 2585
+application\views\front-end\classic\footer.php - 194 , 205, 265 to 296
+application\controllers\Auth.php - 
+
+30/11/22
+application\helpers\function_helper.php - 956
+application\controllers\admin\Offer.php - 76
+application\views\admin\pages\tables\manage-zipcodes.php - 37
+appliocation\language\english\web_lables_lang.php - 25,40
+application\views\front-end\classic_1\footer.php - 340
+application\views\front-end\classic\footer.php  - 302,310
+application\views\front-end\classic\pages\product-page.php - 658
+application\views\admin\pages\forms\add-product-faqs.php - 43
+application\views\front-end\classic\header.php - 15,102
