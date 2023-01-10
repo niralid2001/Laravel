@@ -625,9 +625,366 @@ Day : Tuesday
 
 ========================
 ENTER TIME : 03:01 pm
-LEAVE TIME : 06:45 pm
+LEAVE TIME : 06:43 pm
 ========================
 
 - SmartEnergi
 ----------------
 	-solve all bugs for bugsheet
+
+___________________________________
+
+December 2022
+------------------------
+Date : 14 December 2022
+Day : Wednesday
+
+========================
+ENTER TIME : 03:03 pm
+LEAVE TIME : 06:45 pm
+========================
+
+- Damanfx
+----------------------
+	- see project and try to understand it for knowledge.
+
+- Website4fun
+----------------------
+	- see project and try to understand it.
+
+___________________________________
+
+December 2022
+------------------------
+Date : 15 December 2022
+Day : Thursday
+
+========================
+ENTER TIME : 03:00 pm
+LEAVE TIME : 06:45 pm
+========================
+
+- Website4fun
+----------------------
+	- add bussiness name after congratulations.
+
+___________________________________
+
+December 2022
+------------------------
+Date : 16 December 2022
+Day : Friday
+
+========================
+ENTER TIME : 09:00 am
+LEAVE TIME : 01:00 pm
+========================
+
+- Website4fun
+----------------------
+	- add bussiness name after congratulations(file: reg_step4).
+	- add button in congratulation page and that redirect to profile page(file: reg_step4).
+
+___________________________________
+
+December 2022
+------------------------
+Date : 17 December 2022
+Day : Saturday
+
+========================
+ENTER TIME : 09:00 am
+LEAVE TIME : 012:50 pm
+========================
+
+- Website4fun
+----------------------
+	- add club name after congratulations(file: reg_step4).
+	- add single user name after congratulations(file: reg_step4).
+	- add couple name after congratulations(file: reg_step4).
+	- add group name after congratulations(file: reg_step4).
+	- Done task.
+
+___________________________________
+
+December 2022
+------------------------
+Date : 20 December 2022
+Day : Tuesday
+
+========================
+ENTER TIME : 03:00 pm
+LEAVE TIME : 06:45 pm
+========================
+
+- Website4fun
+----------------------
+	- add other languages field(basic_info_form).
+	- Screenshot--Business screenshots.zip(img-2 done, img-4 running)	  
+
+___________________________________
+
+December 2022
+------------------------
+Date : 21 December 2022
+Day : Wednesday
+
+========================
+ENTER TIME : 03:07 pm
+LEAVE TIME : 06:45 pm
+========================
+
+- Website4fun
+----------------------
+	- add other languages field--running(basic_info_form).
+	-done this point in account type==couple 
+	- Screenshot--Business screenshots.zip(img-2 done, img-4 running)	 
+
+___________________________________
+
+December 2022
+------------------------
+Date : 22 December 2022
+Day : Thursday
+
+========================
+ENTER TIME : 03:08 pm
+LEAVE TIME : 06:45 pm
+========================
+
+- Website4fun
+----------------------
+	-Done add other languages field(basic_info_form.php).
+	-Done this point in account type==couple.
+	-Done changes of title (singles,clubs,businesses)(reg_step.php). 
+	-add sponsor field at bottom of the page.
+	-website field allow entire website tp appear.
+	-Add phone no section with dased and perenthes.
+	-remove age(itemforsale_form.php  & items_for_sale.php).
+	-Add currency Dropdown(itemforsale_form.php  & items_for_sale.php).
+
+	-Screenshot--Business screenshots.zip(img-2 done, img-4 done, image-5 done).	 
+	-Screenshot--Club screenshots.zip(img-3 done, img-4 done).
+
+___________________________________
+
+December 2022
+------------------------
+Date : 23 December 2022
+Day : Friday
+
+========================
+ENTER TIME : 09:06 am
+LEAVE TIME : 01:00 pm
+========================
+
+- Website4fun
+----------------------
+	-Add currency Dropdown(itemforsale_form.php  & items_for_sale.php).
+	-remove age from my account(setting_partial.php).
+	-Make Email section larger for large email(setting_partial.php).
+	-Make password should show(setting_partial.php).
+
+	-Screenshot--Business screenshots.zip(img-2 done, img-4 done, image-5 done).	 
+	-Screenshot--Club screenshots.zip(img-3 done, img-4 done, img-7 done).
+
+___________________________________
+
+December 2022
+------------------------
+Date : 29 December 2022
+Day : Thursday
+
+========================
+ENTER TIME : 03:05 pm
+LEAVE TIME : 06:45 pm
+========================
+
+- Website4fun
+----------------------
+	-remove question(search_panel.php)
+	-items for sale replace items for sell(user_home.php)
+	-Group name section &Make Email section larger for large email(at-groups.php).
+ 	-Make password should show(at-groups.php).
+	-sponsor field replace at bottom(at-groups.php).
+	-editor change it edit or(user_home.php).
+
+	-Screenshot--Business screenshots.zip(img-2 done, img-4 done, image-5 done).	 
+	-Screenshot--Club screenshots.zip(img-3 done, img-4 done, img-5 done, img-7 done, img-10 done, img-11 done).
+	-Screenshot--Couple screenshots.zip(img-1 done).
+	-Screenshot--Group screenshots.zip(img-1 done, img-2 done).
+
+___________________________________
+
+December 2022
+------------------------
+Date : 30 December 2022
+Day : Friday
+
+========================
+ENTER TIME : 03:00 pm
+LEAVE TIME : 07:21 pm
+========================
+
+- Website4fun
+----------------------
+	-modifiy age field.
+	-modify other language field.
+	-Remove instructor tab from groups(user_home.php)
+	-Combine "Basic information" tab and "Group" tab and replace tab title with "Group Information"(user_home.php, basic_info_form.php, api->controller->user.php)
+	-Remove "Items for sale" tab from only group login(user_home.php)
+
+	-Screenshot--Business screenshots.zip(img-2 done, img-4 done, image-5 done).	 
+	-Screenshot--Club screenshots.zip(img-3 done, img-4 done, img-5 done, img-7 done, img-10 done, img-11 done).
+	-Screenshot--Couple screenshots.zip(img-1 done).
+	-Screenshot--Group screenshots.zip(img-1 done, img-2 done).
+
+___________________________________
+
+December 2022
+------------------------
+Date : 31 December 2022
+Day : Saturday
+
+========================
+ENTER TIME : 09:20 pm
+LEAVE TIME : 01:20 pm
+========================
+
+- Website4fun
+----------------------
+	-Add education dropdown and modify it in single and couples.
+	-Add vegetrain dropdown and modify it in single and couples.
+	-Add politican dropdown  and modify it in single and couples.
+	-Add age dropdown  and modify it in single and couples.
+	-Add laguages text  and modify it in single and couples.
+
+	-Screenshot--almost done in W4fun project.
+
+___________________________________
+
+January 2023
+------------------------
+Date : 2 January 2023
+Day : Monday
+
+========================
+ENTER TIME : 03:07 pm
+LEAVE TIME : 06:47 pm
+========================
+
+- Website4fun
+----------------------
+	-add vegetarian dropdown in couple.
+	-add education dropdown in couple.
+	-add political dropdown in couple.
+	-add data into database.
+	-save data functionality
+
+___________________________________
+
+January 2023
+------------------------
+Date : 3 January 2023
+Day : Tuesday
+
+========================
+ENTER TIME : 03:00 pm
+LEAVE TIME : 06:45 pm
+========================
+
+- Website4fun
+----------------------
+	- Education field functionality error solving.
+	- Political field functionality error solving.
+
+___________________________________
+
+January 2023
+------------------------
+Date : 4 January 2023
+Day : Wednesday
+
+========================
+ENTER TIME : 03:05 pm
+LEAVE TIME : 06:46 pm
+========================
+
+- learning about Django & postgreSQl
+-show new project dnhsecheron and development information.
+
+___________________________________
+
+January 2023
+------------------------
+Date : 5 January 2023
+Day : Thursday
+
+========================
+ENTER TIME : 03:11 pm
+LEAVE TIME : 06:49 pm
+========================
+
+- Website4fun
+----------------------
+	-add contact detail in profile page.
+
+-own project.
+
+___________________________________
+
+January 2023
+------------------------
+Date : 6 January 2023
+Day : Friday
+
+========================
+ENTER TIME : 03:02 pm
+LEAVE TIME : 06:49 pm
+========================
+
+- Damanfx
+----------------------
+	-solve bugs of buglist.
+
+-own project.
+
+___________________________________
+
+January 2023
+------------------------
+Date : 9 January 2023
+Day : Monday
+
+========================
+ENTER TIME : 03:00 pm
+LEAVE TIME : 06:46 pm
+========================
+
+- Damanfx
+----------------------
+	-solve bugs of buglist.
+
+- Website4fun
+----------------------
+	-solve bugs of buglist.
+
+___________________________________
+
+January 2023
+------------------------
+Date : 10 January 2023
+Day : Tuesday
+
+========================
+ENTER TIME : 03:00 pm
+LEAVE TIME : 06:46 pm
+========================
+
+- Damanfx
+----------------------
+	-solve bugs of buglist.
+
+- Website4fun
+----------------------
+	-solve bugs of buglist.
